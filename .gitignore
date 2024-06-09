@@ -1,7 +1,8 @@
 # OSX
 #
 .DS_Store
-
+#org.gradle.java.home=C:\Program Files\Java\jdk-15.0.1
+# sdk.dir=C:\Users\user\AppData\Local\Android\Sdk
 # Xcode
 #
 build/
